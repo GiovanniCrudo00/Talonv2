@@ -21,8 +21,8 @@ class TextUserInterface:
             self.choice = chc 
             return self.choice
         else:
-            raise ValueError()
+            raise ValueError() # Raise an exception on error
         
     def executeCommand(self):
-        
-        print(self.choice)
+        # Here execute the code
+        print(self.choice) 
