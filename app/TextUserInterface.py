@@ -24,4 +24,5 @@ class TextUserInterface:
             raise ValueError()
         
     def executeCommand(self):
+        
         print(self.choice)
