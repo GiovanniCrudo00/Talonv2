@@ -1,1 +1,7 @@
-Text User Interface
+*) Create commit-hook to make a commit only if test passes
+
+**) Create Docker Cointainer 
+
+***) Print the table of outputs to file
+
+Add VPN to container(?)
