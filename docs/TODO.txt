@@ -1,7 +1,5 @@
-*) Create commit-hook to make a commit only if test passes
+**) Permit execution in a venv(Poetry)
 
-**) Create Docker Cointainer 
+***) Create/Modify README file 
 
-***) Print the table of outputs to file
-
-Add VPN to container(?)
+****) Print the table of outputs to file
